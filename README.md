@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyrilhahn
 - 👀 I’m interested in coding, music production, cooking and the outdoors
-- 🌱 I’m a Full Stack Developer and CSS enthusiast.
+- 🌱 I’m a Full Stack Developer and currenlty learning Swift
 - 💞️ I’m looking to collaborate on anything that peaks my interest :)
 - 📫 How to reach me: cyrilhahn@gmail.com
 
